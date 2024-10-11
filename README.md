@@ -1,23 +1,23 @@
 ## Flask Project
-=================
+
 Overview
 This is a simple Flask-based web application.
 
 ## Features
-=================
+
 - Basic Form Handling. 
 - Simple Frontend. 
 - POST Request Handling. 
 
 ## Prerequisites
-=================
+
 To run this project, you will need to have the following installed:
 
 Python 3.x
 Flask (web framework)
 
 ## Installation and Setup
-=========================
+
 1. Clone the Repository
 First, clone the repository to your local machine:
 
